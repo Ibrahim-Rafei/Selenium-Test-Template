@@ -1,6 +1,3 @@
-Certainly! Below is a sample README file for your Selenium-Test-Template repository using Maven:
-
----
 
 # Selenium-Test-Template
 
