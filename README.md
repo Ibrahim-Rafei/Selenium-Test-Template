@@ -1,7 +1,9 @@
 
 # Selenium-Test-Template
 
-![Selenium Logo](https://www.selenium.dev/images/selenium_logo_large.png)
+[![Java Version](https://img.shields.io/badge/Java-17-blue)](https://www.oracle.com/java/technologies/javase-downloads.html)
+[![Selenium Version](https://img.shields.io/badge/Selenium-4.12.1-green)](https://www.selenium.dev/downloads/)
+[![TestNG Version](https://img.shields.io/badge/TestNG-7.8.0-orange)](https://testng.org/doc/)
 
 Selenium-Test-Template is a template project designed to accelerate web automation testing using Selenium and TestNG. This repository provides a structured foundation for creating and managing automated tests for web applications.
 
